@@ -1,57 +1,68 @@
-👋 Hi, I'm **Shreyansh Kandu** — a passionate developer and problem solver.
-I love building projects that blend **data, logic, and creativity**.
+# 👋 Hi, I'm Shreyansh Kandu
+
+### 💻 CSE '27 | MERN Stack Developer | Data Science & ML | Data Analytics
+
+I’m a Computer Science student and developer passionate about **building full-stack applications, solving problems, and working with data**.
+
 
 ---
 
-## 🔹 What I Do
+## 🚀 About Me
 
-* 📊 **Data Engineering & Analytics**
-  Designed a modern **SQL Data Warehouse** with ETL pipelines, data modeling, and analytics.
-
-* 🧠 **Machine Learning**
-  Built models for **telecom customer churn prediction** and **mushroom edibility classification** using Jupyter Notebooks.
-
-* 🌐 **Full-Stack Web Development**
-  Developed **Wanderlust**, a full-stack travel listing platform with authentication, image uploads, and search functionality (Node.js, Express, MongoDB, Cloudinary).
-
-* 🎮 **Frontend & JavaScript Projects**
-  Created interactive **JavaScript collections** and fun games like **Simon Says Special**.
-
-* 🛠️ **Tech Stack**
-  SQL Server, Python, Jupyter, Node.js, Express.js, MongoDB, HTML/CSS/JS, Bootstrap
+* 💻 **MERN Stack Developer** — React, Node.js, Express.js, MongoDB
+* 📊 Interested in **Data Analytics & Data Warehousing**
+* 🤖 Exploring **Machine Learning & Deep Learning**
+* 🧠 **500+ DSA problems solved** across LeetCode & GeeksforGeeks
+* 🏗️ Building real-world full-stack and data-driven projects
+* ☁️ Experience with **MongoDB Atlas, Cloudinary, Vercel & Render**
+* 🎯 Currently improving my skills in **DSA, MERN, ML & Data Engineering**
+* 🧠 Ranked 4100 at iicpc (codefest).
 
 ---
 
-## 🔹 Highlights
+## 🛠️ Tech Stack
 
-* 🚀 20+ repositories showcasing skills in **data engineering, machine learning, and web development**
-* 🏗️ Built a complete **MVC-based full-stack application (Wanderlust)**
-* 🔍 Strong focus on **problem-solving, scalability, and clean code**
-* 🌍 Experience integrating real-world tools like **MongoDB Atlas & Cloudinary**
+### 💻 Programming
 
----
+`C++` `Python` `JavaScript` `SQL`
 
-## 🌱 Currently Learning
+### 🌐 Full Stack Development
 
-* Advanced Machine Learning techniques
-* Modern frontend frameworks (React, Next.js)
-* Backend optimization & scalable architecture
+`React.js` `Node.js` `Express.js` `MongoDB` `HTML` `CSS` `Bootstrap` `flask` 
 
----
+### 📊 Data & Machine Learning
 
-## 💡 Motto
+`Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Jupyter Notebook`
 
-*"Code should not just work — it should teach, scale, and inspire."*
+### 🗄️ Data Engineering
 
----
+`SQL Server` `ETL` `Data Warehousing` `Data Modeling`
 
-## 📫 Let's Connect
+### ☁️ Tools & Platforms
 
-* 🔗 GitHub: https://github.com/shreyansh0200
+`Git` `GitHub` `MongoDB Atlas` `Cloudinary` `Vercel` `Render`
 
 ---
 
-## ⭐ Featured Project
+## 🚀 Featured Projects
+
+### 🌾 AgriSync — Smart Mandi Procurement
+
+A full-stack platform connecting **farmers, hub managers, and customers** for crop procurement, marketplace transactions, hub management, and mandi price discovery.
+
+**Tech:** React.js • Node.js • Express.js • MongoDB
+
+### 🧠 Manage DSA Vault
+
+A MERN-based platform for organizing and tracking DSA questions with **difficulty-based workspaces, notes, code, language selection, authentication, and personalized question management**.
+
+**Tech:** React.js • Node.js • Express.js • MongoDB
+
+### 🤟 Sign Language Word-to-Sign Player
+
+A web application that converts spoken or typed words/sentences into corresponding **sign-language video representations** to support inclusive communication.
+
+**Tech:** React.js • Node.js • Express.js • MongoDB • Cloudinary
 
 ### 🌍 Wanderlust (Full-Stack Travel App)
 
@@ -63,4 +74,52 @@ I love building projects that blend **data, logic, and creativity**.
 
 ---
 
+### 📊 Machine Learning Projects
+
+Worked on practical ML projects including:
+
+* Telecom Customer Churn Prediction
+* Mushroom Edibility Classification
+* Loan Approval Prediction
+* Regression & Classification Models
+* Ensemble Learning
+* Data Preprocessing & Analysis
+
+---
+
+## 🧠 Problem Solving
+
+**500+ DSA Problems Solved**
+
+`Arrays` • `Strings` • `Linked Lists` • `Stacks & Queues` • `Trees` • `Graphs` • `Dynamic Programming` • `Greedy` • `Sliding Window`
+
+---
+
+## 📈 What I'm Currently Working On
+
+* 🚀 Building scalable MERN applications
+* 🤖 Strengthening Machine Learning & Data Science skills
+* 📊 Learning advanced Data Analytics & Data Warehousing
+* 🧠 Improving DSA and problem-solving skills
+* ☁️ Learning better deployment and backend architecture
+
+---
+
+## 📫 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/shreyansh-kandu-002331280/)
+* 🐙 [GitHub](https://github.com/shreyansh0200)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyansh0200&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>---
+---
+
+### ⭐ Build • Learn • Solve • Repeat
+
+> **Turning ideas into code and data into insights.**
+
 ✨ Always exploring new technologies and pushing boundaries in **data-driven + full-stack development**.
+
+---
+
+
