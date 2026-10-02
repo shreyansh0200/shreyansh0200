@@ -110,7 +110,7 @@ Worked on practical ML projects including:
 * 💼 [LinkedIn](https://www.linkedin.com/in/shreyansh-kandu-002331280/)
 * 🐙 [GitHub](https://github.com/shreyansh0200)
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyansh0200&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=shreyansh0200" />
 </p>---
 ---
 
